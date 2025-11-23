@@ -1,6 +1,5 @@
 streamlit
 reportlab
-open3d
 requests
 beautifulsoup4
 plotly
