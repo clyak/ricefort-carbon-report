@@ -1,6 +1,5 @@
 import streamlit as st
 import reportlab.pdfgen.canvas as canvas
-import open3d as o3d
 import tempfile
 import os, sys, time, requests
 from bs4 import BeautifulSoup
